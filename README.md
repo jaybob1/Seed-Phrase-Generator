@@ -1,4 +1,3 @@
-[sadsad](https://github.com/)
 # Seed Phrase Generator & Checker
 
 A Seed Phrase Generator is a tool designed to create a unique set of words that can be used to 
