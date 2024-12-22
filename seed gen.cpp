@@ -1,4 +1,4 @@
-{
+
   "name": "leetcode",
   "lockfileVersion": 3,
   "requires": true,
